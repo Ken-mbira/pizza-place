@@ -23,6 +23,25 @@ html {
     background-repeat: no-repeat;
 }
 
+.navigation {
+    list-style-type: none;
+    width: 200px;
+    height: 100%;
+}
+
+.list1 {
+    display: block;
+    color: black;
+    margin-bottom: 40px;
+    padding-bottom: 20px;
+    text-decoration: none;
+}
+
+.list1:hover {
+    background-color: grey;
+    color: white;
+}
+
 #page2 {
     display: none;
 }
