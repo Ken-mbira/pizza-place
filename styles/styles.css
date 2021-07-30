@@ -56,17 +56,15 @@ html {
 }
 
 .cart {
-    background-color: white;
-    text-align: center;
-    color: black;
-    border-style: solid white;
-    border-radius: 5px;
-    margin-right: 10px;
-    float: right;
+    background-color: transparent;
+    text-align: right;
+    color: white;
 }
 
 #checkout-button {
     background-color: transparent;
+    color: white;
+    margin: 10px;
 }
 
 .orientation {
