@@ -25,7 +25,7 @@ html {
 
 .navigation {
     list-style-type: none;
-    width: 200px;
+    width: 150px;
     height: 100%;
 }
 
@@ -39,6 +39,13 @@ html {
 
 .list1:hover {
     background-color: grey;
+    color: white;
+}
+
+#page1-title {
+    color: white;
+    font-family: 'Style Script', cursive;
+    font-size: 100px;
     color: white;
 }
 
