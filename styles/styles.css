@@ -6,7 +6,6 @@ html {
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
-    height: 100%;
 }
 
 .page {
@@ -75,6 +74,15 @@ html {
     display: none;
 }
 
-#page3 {
-    display: none;
+.contact-heading {
+    text-align: center;
+}
+
+.social-media {
+    text-align: center;
+}
+
+.social-media-icons {
+    list-style-type: none;
+    display: inline;
 }
