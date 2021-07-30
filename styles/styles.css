@@ -15,6 +15,14 @@ html {
     width: 70%;
 }
 
+.page1-content {
+    background-image: url(/images/backgrounds/background2.jpg);
+    background-position: center;
+    background-size: cover;
+    height: 40%;
+    background-repeat: no-repeat;
+}
+
 #page2 {
     display: none;
 }
