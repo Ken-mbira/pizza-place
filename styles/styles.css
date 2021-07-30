@@ -49,6 +49,26 @@ html {
     color: white;
 }
 
+.pizza-menu {
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+}
+
+.cart {
+    background-color: white;
+    text-align: center;
+    color: black;
+    border-style: solid white;
+    border-radius: 5px;
+    margin-right: 10px;
+    float: right;
+}
+
+#checkout-button {
+    background-color: transparent;
+}
+
 .orientation {
     color: white;
 }
