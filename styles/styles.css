@@ -25,7 +25,7 @@ html {
 
 .navigation {
     list-style-type: none;
-    width: 150px;
+    width: 100px;
     height: 100%;
 }
 
@@ -45,7 +45,11 @@ html {
 #page1-title {
     color: white;
     font-family: 'Style Script', cursive;
-    font-size: 100px;
+    font-size: 90px;
+    color: white;
+}
+
+.orientation {
     color: white;
 }
 
